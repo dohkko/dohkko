@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronaldo</h1>
 <h3 align="center">A curious stundent of Cyber Security</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/lOBxl9a.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrona1do&label=Profile%20views&color=0e75b6&style=flat" alt="jrona1do" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dohkko&label=Profile%20views&color=0e75b6&style=flat" alt="dohkko" /> </p>
 
 - 🌱 I’m currently learning **Cyber Security,Network Security**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jrona1do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jrona1do" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/m0r14rtty" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="jrona1do" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dohkko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dohkko" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/m0r14rtty" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="dohkko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jrona1do&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jrona1do" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dohkko&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dohkko" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jrona1do&show_icons=true&locale=en&theme=tokyonight" alt="jrona1do" /></p>
