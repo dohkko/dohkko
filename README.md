@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronaldo</h1>
 <h3 align="center">A curious stundent of Cyber Security</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/qbmjPU9cdaKkM/giphy.gif](https://avatars.githubusercontent.com/u/49367540?s=400&u=6746aef063ac4c32afda744f85808c6b986705ab&v=4)">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/lOBxl9a.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrona1do&label=Profile%20views&color=0e75b6&style=flat" alt="jrona1do" /> </p>
 
 - 🌱 I’m currently learning **Cyber Security,Network Security**
